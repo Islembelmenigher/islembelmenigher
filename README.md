@@ -52,7 +52,7 @@ I focus on **maintainable code, seamless API integration, and optimized user exp
 ## 💼 Professional Experience
 
 ### React Developer – HCL Tech, Krakow
-*December 2023 – Present*
+*December 2022 – Present*
 
 - Developed **production-grade React applications** with complex workflows and dynamic dashboards  
 - Implemented **modular component architecture** and reusable UI libraries  
