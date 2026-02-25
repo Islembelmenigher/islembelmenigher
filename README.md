@@ -81,6 +81,8 @@ with a strong focus on **UI/UX and maintainable code**.
 <img src="https://github-readme-stats.vercel.app/api?username=islembelmenigher&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islembelmenigher&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=islembelmenigher&show_icons=true&theme=tokyonight&hide_border=true" />
+
 
 </div>
 
