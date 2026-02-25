@@ -60,11 +60,12 @@ I create high-performance React applications that tackle complex challenges, wit
 
 ## 🧠 What I Focus On
 
-- ⚡ Building fast & responsive React apps  
-- 🧩 Component-driven architecture  
-- 🎨 Pixel-perfect UI with modern design systems  
-- 🔄 API integration & state management  
-- 🧪 Clean, readable, maintainable code  
+- ⚡ Develop **high-performance, responsive React applications** optimized for speed and usability  
+- 🧩 Implement **modular, component-driven architectures** for scalability and maintainability  
+- 🎨 Design **pixel-perfect user interfaces** following modern design systems and best UX practices  
+- 🔄 Integrate APIs and manage complex state for **seamless data-driven experiences**  
+- 🧪 Write **clean, readable, and maintainable code** adhering to best practices and standards  
+
 
 ---
 
