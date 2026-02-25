@@ -19,8 +19,7 @@
 ### 👋 Hi, I'm Islem Belmenigher
 **React Developer | Frontend Engineer**
 
-I build **clean, scalable, and high-performance web applications**  
-with a strong focus on **UI/UX and maintainable code**.
+I create high-performance React applications that tackle complex challenges, with a focus on scalability, maintainability, and intuitive user interfaces that make real impact.
 
 </div>
 
@@ -70,7 +69,7 @@ with a strong focus on **UI/UX and maintainable code**.
 | **Dashboard App** | Admin dashboard with charts | React • Redux • REST API |
 | **SaaS Landing Page** | Marketing website | Next.js • SEO • UI/UX |
 
-> 💡 Tip: link these to your real repos later
+Links to repositories....
 
 ---
 
@@ -78,13 +77,14 @@ with a strong focus on **UI/UX and maintainable code**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=islembelmenigher&show_icons=true&theme=tokyonight" />
+  <!-- Total stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=islembelmenigher&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islembelmenigher&layout=compact&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api?username=islembelmenigher&show_icons=true&theme=tokyonight&hide_border=true" />
-
+  <!-- Top languages (hide HTML/CSS for cleaner view) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islembelmenigher&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" />
 
 </div>
+
 
 ---
 
