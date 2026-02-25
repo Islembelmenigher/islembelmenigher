@@ -1,6 +1,9 @@
 <!-- Hero Section -->
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islembelmenigher&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" />
+
+
 <img src="https://capsule-render.vercel.app/api
 ?type=waving
 &color=0:0ea5e9,100:6366f1
