@@ -48,6 +48,14 @@ I create high-performance React applications that tackle complex challenges, wit
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 </div>
+---
+## ⚛️ How i use the stacks ?
+
+- **React / Next.js:** Build scalable SPA & SSR apps with clean component architecture
+- **TypeScript:** Type-safe, maintainable, error-resistant code
+- **Tailwind / MUI / shadcn/ui:** Create responsive, modern, and accessible UIs
+- **Redux / React Query:** Manage complex state and optimize data fetching
+- **Node.js:** Develop backend APIs and server-side logic to power frontend apps
 
 ---
 
