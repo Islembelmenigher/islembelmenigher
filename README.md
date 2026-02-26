@@ -105,4 +105,4 @@ I focus on **maintainable code, seamless API integration, and optimized user exp
 ---
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&width=full&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer" />
