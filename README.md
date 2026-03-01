@@ -62,29 +62,7 @@ I focus on **maintainable code, seamless API integration, and optimized user exp
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|-------|------------|------|
-| **Portfolio Website** | Personal developer portfolio highlighting projects and skills | React • Next.js • Tailwind |
-| **Dashboard Management** | Admin dashboard with charts, dynamic tables, and analytics | React • Redux • React Query |
-| **Web Application** | Interactive web application with forms, API integration, and responsive UI | React • TypeScript • Tailwind |
-
-🔗 Links to repositories available upon request or on my profile.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=islembelmenigher&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islembelmenigher&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" />
-
-</div>
-
----
 
 ## 🌍 Languages
 
