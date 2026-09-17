@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Islem%20Belmenigher&fontSize=42&fontAlignY=35&desc=React%20Developer&descSize=18&descAlignY=55" />
 
 ### 👋 Hi, I'm Islem Belmenigher
-**React Developer | Frontend Engineer**
+**Full stack developper**
 
 I build **high-performance, scalable React applications** with modular architectures and modern UI/UX practices.  
 I focus on **maintainable code, seamless API integration, and optimized user experiences** that drive real-world impact.
